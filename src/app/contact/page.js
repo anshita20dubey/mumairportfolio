@@ -6,7 +6,7 @@ export default function ContactSection() {
   return (
     <div className="text-white py-16">
       <div className="container mx-auto text-center">
-        <h2 className="text-6xl font-semibold tracking-wider mb-4">Let's Design Together</h2>
+        <h2 className="text-6xl font-semibold tracking-wider mb-4">Let&apos;s Design Together</h2>
         <p className="text-lg font-sans mb-12">
           Lorem ipsum dolor sit amet consectetur. Tristique amet sed massa nibh lectus <br></br> netus in.
           Aliquet donec morbi convallis pretium.
