@@ -18,7 +18,7 @@ const page = () => {
           <br />
           <h3 className="text-lg font-semibold tracking-wider">Hi I am</h3>
           <h1 className="text-4xl font-bold text-orange-500">Muhammad Umair</h1>
-          <h2 className="text-7xl font-extrabold">UI & UX <br /> <span className='ml-40'>Designer</span></h2>
+          <h2 className="text-7xl font-extrabold">UI & UX <br /> <span className='ml-40 bg-transparent'>Designer</span></h2>
           <p className="max-w-md font-normal tracking-wide font-sans">
             Lorem ipsum dolor sit amet consectetur. Tristique amet sed massa nibh lectus netus in.
             Aliquet donec morbi convallis pretium. Turpis tempus pharetra.
